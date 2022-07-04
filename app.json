@@ -1,8 +1,8 @@
 {
-    "name": "Telethon Music Bot",
+    "name": "ANDY Music Bot",
     "description": "Music allow you to stream music trought the telegram voice chat feature Based on Telethon.",
-    "keywords": ["JEPTHON", "JEPTHON-MUSIC", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
-    "repository": "https://github.com/lMl10l/Jepthon-313",
+    "keywords": ["AnDy", "Andy-MUSIC", "music", "voice chat", "telegram", "ANDY", "Andy Music", "Private Music", "telethon"],
+    "repository": "https://github.com/LordSan9/Music-2020/",
   "stack": "container",
     "env": {
         "APP_ID": {
