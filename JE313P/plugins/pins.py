@@ -20,7 +20,7 @@ PINS_TEXT = """
 ‣ `!الرسائل المثبتة`
 لأظهار الرسائل المثبتة في المجموعة
 
-@JEPTHON
+@IIlAndylII
 """
 
 @JE313P.on(events.NewMessage(pattern="^[?!/]الرسائل المثبتة"))
